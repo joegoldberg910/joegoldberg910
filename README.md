@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 
+### My curiosity about technology, which first emerged in middle school, continued to grow over the years. In high school, I studied information technologies and kept improving my skills, eventually finding my passion in cybersecurity. Ensuring the security of my own systems and discovering vulnerabilities in others has always been exciting for me. In my free time, I’ll be sharing the projects I’ve developed here with all of you.
 
 ## 🛠️ Teknolojiler & Yetenekler
 
